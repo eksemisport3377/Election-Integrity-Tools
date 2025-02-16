@@ -1,2 +1,1 @@
-# Election-Integrity-Tools
-Библиотека для работы с мультимедиа
+Библиотека для работы с WebSocket
